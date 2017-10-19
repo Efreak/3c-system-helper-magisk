@@ -41,9 +41,13 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
-  ui_print "*******************************"
+  ui_print "****************************************"
+  ui_print " 3c Toolbox System Helper Magisk Module "
+  ui_print "                                        "
+  ui_print "                by Efreak               "
+  ui_print "                                        "
+  ui_print "   Based on original work by topjohnwu  "
+  ui_print "****************************************"
 }
 
 ##########################################################################################
