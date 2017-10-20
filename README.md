@@ -1,11 +1,7 @@
-# Magisk Module Template
+# 3c Toolbox System Helper
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/module_repo.md)
+<p align="center"><a href="http://www.3c71.com/android/?q=node/916"><img src="https://www.3c71.com/android/sites/default/files/at_feature_pro_0.png" /></a></p>
 
-### README.md
+Installs the 3c toolbox system helper app via magisk.
 
-This `README.md` can be shown in Magisk Manager. Place any information/changelog/notes you like.
-
-**Please update `README.md` if you want to submit your module to the online repo!**
-
-You can edit your `README.md` within Github's online editor, it also has an preview button! Check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for markdown syntaxes, it's super easy!
+For more info on 3c Toolbox, see [the website](http://www.3c71.com/android/?q=node/916), or [Google Play](https://play.google.com/store/apps/details?id=ccc71.at.free) ([pro version](https://play.google.com/store/apps/details?id=ccc71.at)).
